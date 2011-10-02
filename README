@@ -1,0 +1,11 @@
+Laberint, versió 0.1
+
+·Funcionalitats actuals:
+	1. Inicialitzar el TAD bolla.
+	2. Calcular l'acceleració que sufreix la bolla sobre un taulell amb 
+	   una inclinació determinada.
+	3. Calcular la pròxima posició de la bolla en la trajectòria actual.
+
+·Falta:
+	1. Repassar refinament successiu.
+	2. Crear el taulell.

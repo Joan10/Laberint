@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1317591160 source:/home/joan/Escriptori/Laberint/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bolla.h"
+	"t_vector.h"
+	<allegro.h>
+
+1317585766 source:/home/joan/Escriptori/Laberint/Bolla.c
+	<math.h>
+	"Bolla.h"
+
+1317591016 /home/joan/Escriptori/Laberint/Bolla.h
+	<stdio.h>
+	"t_vector.h"
+
+1317591213 /home/joan/Escriptori/Laberint/t_vector.h
+
+1317591223 source:/home/joan/Escriptori/Laberint/t_vector.c
+	"t_vector.h"
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Bolla.c" open="1" top="0" tabpos="1">
+		<Cursor position="590" topLine="33" />
+	</File>
+	<File name="Bolla.h" open="1" top="0" tabpos="2">
+		<Cursor position="205" topLine="16" />
+	</File>
+	<File name="main.c" open="1" top="1" tabpos="3">
+		<Cursor position="1588" topLine="37" />
+	</File>
+	<File name="t_vector.c" open="1" top="0" tabpos="5">
+		<Cursor position="21" topLine="0" />
+	</File>
+	<File name="t_vector.h" open="1" top="0" tabpos="4">
+		<Cursor position="226" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
