@@ -5,7 +5,7 @@ Laberint, versió 0.1
 	2. Calcular l'acceleració que sufreix la bolla sobre un taulell amb 
 	   una inclinació determinada.
 	3. Calcular la pròxima posició de la bolla en la trajectòria actual.
-
+	4. Fer rebotar la bolla
 ·Falta:
 	1. Repassar refinament successiu.
 	2. Crear el taulell.

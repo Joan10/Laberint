@@ -19,3 +19,23 @@
 1317591223 source:/home/joan/Escriptori/Laberint/t_vector.c
 	"t_vector.h"
 
+1317636957 source:/home/joan/Escriptori/Joan10-Laberint-d983137/Bolla.c
+	<math.h>
+	"Bolla.h"
+
+1317652638 /home/joan/Escriptori/Joan10-Laberint-d983137/Bolla.h
+	<stdio.h>
+	"t_vector.h"
+
+1317559572 /home/joan/Escriptori/Joan10-Laberint-d983137/t_vector.h
+
+1317559572 source:/home/joan/Escriptori/Joan10-Laberint-d983137/t_vector.c
+	"t_vector.h"
+
+1317635828 source:/home/joan/Escriptori/Joan10-Laberint-d983137/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Bolla.h"
+	"t_vector.h"
+	<allegro.h>
+
